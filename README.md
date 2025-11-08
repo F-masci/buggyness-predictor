@@ -80,4 +80,4 @@ Il progetto conferma che gli approcci data-driven possono supportare in modo eff
 * **Università**: Università degli Studi di Roma "Tor Vergata"
 * **Anno Accademico**: 2024/2025
 * **Repository GitHub**: [buggyness-predictor](https://github.com/F-masci/buggyness-predictor)
-* **Analisi SonarCloud**: [buggyness-predictor](https://sonarcloud.io/project/overview?id=F-masci_buggyness-predictor)
+* **Analisi SonarCloud**: [buggyness-predictor](https://sonarcloud.io/project/overview?id=F-masci_isw2-prediction)
